@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcarlosbm
 - 👀 I’m interested in being a more professional developer
-- 🌱 I’m currently learning Spring boot
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on a java/android or php project
 - 📫 How to reach me: bonillasoftdev@gmail.com
 
