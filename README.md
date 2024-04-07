@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcarlosbm
-- 👀 I’m interested in being a more professional developer
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on a java/android or php project
+- 👀 I’m interested in improving my skills in mobile app development.
+- 🌱 I’m currently learning SwiftUI.
+- 💞️ I’m looking to collaborate on Kotlin and Swift projects.
 - 📫 How to reach me: bonillasoftdev@gmail.com
 
 <!---
